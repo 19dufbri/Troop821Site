@@ -1,0 +1,7 @@
+#jumbo-main {
+    background: #111111 url("../../images/license/jumbo-main.png") no-repeat center center fixed;
+    background-size: cover;
+}
+#jumbo-text-main{
+    color: #ffffff;
+}
