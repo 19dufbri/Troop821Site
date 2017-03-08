@@ -1,0 +1,20 @@
+#jumbo-main {
+    background: #111111 url("../../images/home/jumbo-main.png") no-repeat center center fixed;
+    background-size: cover;
+}
+#jumbo-text-main {
+    color: #ffffff;
+}
+#jumbo-text-main h1 small {
+    color: #bdbdbd;
+}
+#jumbo-about {
+    background: #111111 url("../../images/home/jumbo-about.png") no-repeat center center fixed;
+    background-size: cover;
+}
+#jumbo-text-about {
+    color: #ffffff;
+}
+.col-sm-4 img {
+    margin-top: 10px;
+}

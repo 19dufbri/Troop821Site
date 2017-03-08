@@ -1,0 +1,7 @@
+Image Names (In order of apperance)
+Jumbotron images should be 3840x2160 #TODO: Add mutiple resolutions
+Top Jumbotron: jumbo-main.png
+About Jumbotron: jumbo-about.png
+About Leadership: about-leader.png
+About Friendship: about-friend.png
+About Boat: about-ship.png

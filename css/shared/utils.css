@@ -1,0 +1,26 @@
+@import url("fonts/corbert.css");
+::selection {
+    background: gray;
+}
+::-moz-selection {
+    background: gray;
+}
+body
+{
+    font-family: "corbert", "Trebuchet MS", sans-serif;
+}
+#footer{
+    position: fixed;
+    background-color: #222222;
+    bottom: 0px;
+    width: 100%;
+    border-radius: 0px;
+}
+.spacer {
+    content: " ";
+    width: 100%;
+    height: 70px;
+}
+a {
+    font-weight: bolder;
+}
