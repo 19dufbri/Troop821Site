@@ -2,7 +2,9 @@
 ## Todo list for the website
 - Buy Hostname
 - Relocate to Server
+- Standardize/Minimize CSS
 - Have multiple image resolutions
+- Remove all remote references, keep it on our server
 - Make Columns less derpy
 - Find good pictures
 - Instagram API, Embed posts
