@@ -10,4 +10,3 @@
 - Instagram API, Embed posts
 - TroopTrack API, Calandar/Misc
 - Facebook API, share latest news
-- Misc APIs

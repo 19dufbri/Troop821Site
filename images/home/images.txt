@@ -1,7 +1,6 @@
 Image Names (In order of apperance)
-Jumbotron images should be 3840x2160
 Top Jumbotron: jumbo-main.png
 About Jumbotron: jumbo-about.png
-About Leadership: about-leader.png
-About Friendship: about-friend.png
-About Boat: about-ship.png
+About-Leader: about-leader.png
+About-Friend: about-friend.png
+About-Ship: about-ship.png

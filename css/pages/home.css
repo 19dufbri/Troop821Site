@@ -9,7 +9,7 @@
     color: #bdbdbd;
 }
 #jumbo-about {
-    background: #111111 url("https://static.pexels.com/photos/6548/cold-snow-winter-mountain.jpeg") no-repeat center center fixed;
+    background: #111111 url("../../images/home/jumbo-about.png") no-repeat center center fixed;
     background-size: cover;
 }
 #jumbo-text-about {
@@ -21,4 +21,7 @@
 }
 .col-sm-4 p {
     font-size: 20px;
+}
+.col-sm-8 p {
+    font-size: 18px;
 }
