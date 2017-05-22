@@ -4,7 +4,6 @@
 - Relocate to Server
 - Standardize/Minimize CSS
 - Have multiple image resolutions
-- Make Columns less derpy
 - Find good pictures
 - Instagram API, Embed posts
 - TroopTrack API, Calandar/Misc

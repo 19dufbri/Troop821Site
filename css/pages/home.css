@@ -13,6 +13,12 @@
     See the License for the specific language governing permissions and
     limitations under the License. 
 */
+@media (min-width: 768px) {
+  .row.equal {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
 #jumbo-main {
     background: #111111 url("../../images/home/jumbo-main.png") no-repeat center center fixed;
     background-size: cover;
@@ -30,6 +36,24 @@
 #jumbo-text-about {
     color: #ffffff;
 }
+#img-leader {
+    background: #ffffff url("../../images/home/about-leader.png") no-repeat center center;
+    background-size: contain;
+    background-origin: content-box;
+    content: " ";
+}
+#img-friend {
+    background: #ffffff url("../../images/home/about-friend.png") no-repeat center center;
+    background-size: contain;
+    background-origin: content-box;
+    content: " ";
+}
+#img-ship {
+    background: #ffffff url("../../images/home/about-ship.png") no-repeat center center;
+    background-size: contain;
+    background-origin: content-box;
+    content: " ";
+}
 .col-sm-4 img {
     margin-top: 20px;
     margin-bottom: 20px
@@ -39,4 +63,7 @@
 }
 .col-sm-8 p {
     font-size: 18px;
+}
+.image-height {
+    min-height: 300px;
 }
