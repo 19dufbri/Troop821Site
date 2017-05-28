@@ -5,6 +5,5 @@
 - Standardize/Minimize CSS
 - Have multiple image resolutions
 - Find good pictures
-- Instagram API, Embed posts
-- TroopTrack API, Calandar/Misc
-- Facebook API, share latest news
+- Google cal embed
+- Remove dead code
