@@ -1,6 +1,6 @@
 Image Names (In order of apperance)
-Top Jumbotron: jumbo-main.png
-About Jumbotron: jumbo-about.png
-About-Leader: about-leader.png
-About-Friend: about-friend.png
-About-Ship: about-ship.png
+Top Jumbotron: jumbo-main.jpg
+About Jumbotron: jumbo-about.jpg
+About-Leader: about-leader.jpg
+About-Friend: about-friend.jpg
+About-Ship: about-ship.jpg

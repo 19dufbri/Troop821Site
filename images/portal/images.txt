@@ -1,7 +1,0 @@
-Image Names (In order of apperance)
-Top Jumbotron: jumbo-main.png
-TroopTrack: tt.png
-Facebook: fb.png
-Website: web.png
-Calandar: cal.png
-Instagram: insta.png

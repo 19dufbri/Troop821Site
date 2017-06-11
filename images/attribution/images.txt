@@ -1,2 +1,2 @@
 Image Names (In order of apperance)
-Top Jumbotron: jumbo-main.png
+Top Jumbotron: jumbo-main.jpg
