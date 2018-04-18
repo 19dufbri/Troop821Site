@@ -20,6 +20,6 @@
 #jumbo-text-main{
     color: #ffffff;
 }
-p {
+.col-sm-6 p {
     font-size: 20px;
 }
